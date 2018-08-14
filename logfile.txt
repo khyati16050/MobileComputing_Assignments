@@ -1,0 +1,10 @@
+08-14 14:21:07.068 6307-6307/ass1try.com.assignment1try I/Demo: method called is OnCreate
+08-14 14:21:07.127 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from create to start
+08-14 14:21:07.140 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from start to resume
+08-14 14:21:16.249 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from resume to pause
+08-14 14:21:17.742 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from pause to stop
+08-14 14:21:46.976 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from create to start
+08-14 14:21:46.989 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from start to resume
+08-14 14:21:53.315 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from resume to pause
+08-14 14:22:00.197 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from pause to stop
+08-14 14:22:00.233 6307-6307/ass1try.com.assignment1try I/Demo: State of Activity changed from stop to destroy
